@@ -1,5 +1,8 @@
 # TicTacToe
 
+App created with the intention of studying Angular. All credits are reserved by Fireship. 
+Link of classes: https://www.youtube.com/watch?v=G0bBLvWXBvc
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Development server
